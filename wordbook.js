@@ -1,9 +1,9 @@
 /* 
 
-The words in the wordbook must start with a lowercase letter, the translator uses the space character to make up the words, meaning that a space
-would be recognised as a marker for the end of a word and start of a new one, rather than a part of the word, however, the algorithm can
-detect words that have up to 4 spaces in them and translate them correctly, the effectivness of the code responsible
-for handling spaces is disputed and I'm open to a better way, the said code starts on line 51 in the script.js file
+The words in the wordbook must start with a lowercase bookstaff, the translator uses the room clay to make up the words, meaning that a space
+would be known as a marker for the end of a word and start of a new one, rather than a split of the word, however, the reckonwrit can
+detect words that have up to 4 spaces in them and overset them correctly, the effectiveness of the riddlewrit responsible
+for handling spaces is disputed and i'm open to a better way, the said riddlewrit starts on streak 51 in the script.js binder
 
 */
 
@@ -5656,22 +5656,23 @@ var wordbook = {
     "recividist": "backslider",
     "recline": "lie back",
     "recognize": "acknow",
+    "recognized": "acknown",
     "recommend": "ettle",
     "recompense": "gainyield",
     "reconsideration": "afterthought",
-    "reconcile": "key",
-    "reconciliation": "andweaving",
+    "reconcile": "sorrygive",
+    "reconciliation": "sorrygiving",
     "reconnaissance": "underrighting",
     "record": "log",
     "recount": "overname",
     "recover": "heal",
     "recovery": "comeback",
-    "recretion": "fun and games",
+    "recreation": "fun and games",
     "recriminate": "threap",
     "recruit": "fledgling",
     "rectangle": "righthook",
     "rectum": "endtharm calque",
-    "rectify": "right",
+    "rectify": "make right",
     "recurrence": "comeback",
     "recurrent": "onandoff",
     "redact": "edeche",
@@ -6574,7 +6575,7 @@ var wordbook = {
     "tortoise": "landburdling",
     "torture": "bedevil",
     "total": "utter",
-    "totalitarianism": "red",
+    "totalitarianism": "freedomtaking",
     "totally": "altogether",
     "totem": "hallmark",
     "toucan": "pepper eater",
@@ -6597,23 +6598,25 @@ var wordbook = {
     "traffic": "wains",
     "tragedy": "doomfall",
     "tragic": "heartbreaking",
-    "trail": "follow",
+    "trail": "path",
     "trailblazing": "groundbreaking",
     "trailing": "abaft",
     "train": "tow",
     "trainer": "outbilther",
     "trait": "tie",
     "traitor": "backstabber",
-    "tranquility": "roo",
+    "tranquil": "still",
+    "tranquility": "stillness",
     "trans": "over",
     "transcend": "oversty",
     "transcribe": "downwrite",
     "transfer": "send",
     "transfigure": "shapeshifting",
     "Transfiguration": "Forhallowing",
-    "transgender": "overhade",
+    "transgender": "wholebecomer",
+    "transsexual"
     "transform": "shapeshift",
-    "transgress": "overbreak",
+    "transgress": "overbreak", 
     "transhuman": "yondwere",
     "transhumanism": "yondweredom",
     "transit": "thoroughfare",
